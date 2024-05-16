@@ -20,3 +20,8 @@
 
 # Class & Style Binding
 - `:style="{backgroundColor: variant.color}"` objects
+- `:class="{ disabledButton: !inStock }"` class binding
+- `:class="[isActive ? activeClass : '']"` Ternary Operators
+
+#Computed Properties: cache value
+- It caches value
