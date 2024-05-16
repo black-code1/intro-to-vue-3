@@ -17,3 +17,6 @@
 - `click` event we're listening for
 - `cart += 1` expression we're triggering
 - shorthands `@click`
+
+# Class & Style Binding
+- `:style="{backgroundColor: variant.color}"` objects
